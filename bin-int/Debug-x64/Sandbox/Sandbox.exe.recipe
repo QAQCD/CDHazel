@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\VisualStudio\source\repos\CDHazel\bin\Debug-x64\CDHazel\CDHazel.dll</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\VisualStudio\source\repos\CDHazel\bin\Debug-x64\Sandbox\Sandbox.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
